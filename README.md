@@ -10,3 +10,6 @@ My kata exercises
 - Supermarket Pricing 
 [[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/supermarketpricing)] 
 [[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/supermarketpricing)]
+- Karate Chop
+[[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/karatechop)] 
+[[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/karatechop)]
