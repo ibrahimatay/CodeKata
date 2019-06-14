@@ -1,8 +1,8 @@
 package karatechop;
 
-public class Chop {
+class Chop {
 
-    public static int To(int target, int[] array){
+    static int To(int target, int[] array){
 
         if (array.length == 0) return -1;
         for (int  i = 0; i < array.length; i++)
