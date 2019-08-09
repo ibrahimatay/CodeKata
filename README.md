@@ -13,3 +13,6 @@ My kata exercises
 - Karate Chop
 [[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/karatechop)] 
 [[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/karatechop)]
+- Palindrome Strings
+[[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/palindromestrings)] 
+[[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/palindromestrings)]
