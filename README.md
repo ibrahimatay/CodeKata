@@ -19,3 +19,6 @@ My kata exercises
 - Bowling Game
 [[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/bowling)] 
 [[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/bowling)]
+- Mars Rover
+[[Code](https://github.com/ibrahimatay/CodeKata/tree/master/src/main/java/marsrover)] 
+[[Test](https://github.com/ibrahimatay/CodeKata/tree/master/src/test/java/marsrover)]
